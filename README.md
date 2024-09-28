@@ -28,7 +28,7 @@ Reasoner (VADER), similar distribution was observed for labelling using TextBlob
 
 ## Results for model trained on TextBlob
 ![Res](https://github.com/Jatinkalal/TwiSent/blob/main/Images/TextblobRes.png)
-The confusion matrix depicts the prediction of the model using all tweets labelled by TextBlob thereby achieving an accuracy of 93%.
+The confusion matrix depicts the prediction of the model using all tweets labelled by TextBlob tested on 58 custom tweets.
 
 
 
