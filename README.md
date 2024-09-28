@@ -24,7 +24,7 @@ The public tweets are repeated in the dataset because each retweet is also consi
 ## Labelling of dataset
 ![vaderbro](https://github.com/Jatinkalal/TwiSent/blob/main/Images/DistributionVader.png)
 Distribution of the dataset by labelling each tweet into positive, negative and neutral by using Valence Aware Dictionary and Sentiment
-Reasoner (VADER), similar distribution was observed for labelling using TextBlob too.
+Reasoner (VADER), similar distribution was observed for labelling using TextBlob.
 
 ## Results for model trained on TextBlob
 ![Res](https://github.com/Jatinkalal/TwiSent/blob/main/Images/TextblobRes.png)
